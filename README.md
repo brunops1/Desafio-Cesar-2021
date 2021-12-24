@@ -24,8 +24,6 @@
 https://archive.ics.uci.edu/ml/machine-learning-databases/00514/
 
 3 - Exeuctar o código
- 
- jupyter notebook
 
 # Autor
 
