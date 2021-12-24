@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
- Aplicação e avaliação de modelo de Machine Learning para fazer a estimação da variável Next_Tmax
+ Aplicação e avaliação de modelo de Machine Learning para estimar a variável Next_Tmax
 
 # Tecnologias utilizadas
 - Python
