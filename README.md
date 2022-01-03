@@ -25,6 +25,9 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00514/
 
 3 - Executar o código
 
+
+Texto base
+
 Segue um texto base, explicando a linha de raciocínio da análise executada. Tendo em vista o pouco tempo útil para entrega, pois como trabalho, tive apenas o período pós comercial para fazê-lo. 
 
 No primeiro momento busquei compreender toda a pesquisa disponibilizada, entendendo de modo geral o objetivo do escritor e sua análise e como se encaixaria no desafio. 
